@@ -1,0 +1,50 @@
+body {
+  height: 100%;
+  margin-top: 0%;
+  margin-left:20%;
+  margin-right:20%;
+}
+#one {
+  border-color:tomato;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: dashed;
+  border-width: 10px;
+}
+#two {
+  border-color:mediumorchid;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-style: dotted;
+  border-width: 20px;
+}
+#three {
+  border-color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-style: ridge;
+  border-width: 30px;
+}
+
+#four {
+    border-color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: double;
+    border-width: 40px;
+}
+#five {
+  border-color: lightgray;
+  font-family: 'Times New Roman', Times, serif;
+  border-style: outset;
+  border-width: 25px;
+
+}
+#six {
+  border-color: dodgerblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-style: groove;
+  border-width: 35px;
+}
+h2 {
+  color: cornflowerblue;
+}
+h1 {
+  color: cornflowerblue;
+}
